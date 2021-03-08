@@ -1,7 +1,7 @@
 # By Symon Kimitei
 # NAÏVE BAYES CLASSIFIER
 # USING APACHE SPARK TO DETECT EMAIL SPAM
-#==============================================================================
+#===========================================================================
 #  Import all the necessary libraries
 import numpy as np
 from pyspark.sql import SparkSession
