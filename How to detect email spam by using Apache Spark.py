@@ -1,10 +1,7 @@
-#  By Symon Kimitei
-#  CS 7423 - Big Data Analytics
-#  Spring 2019
-#  With Dr. Mingon Kang
-#  Assignment #4: NAÏVE BAYES CLASSIFIER
+# By Symon Kimitei
+# NAÏVE BAYES CLASSIFIER
 # USING APACHE SPARK TO DETECT EMAIL SPAM
-
+#==============================================================================
 #  Import all the necessary libraries
 import numpy as np
 from pyspark.sql import SparkSession
